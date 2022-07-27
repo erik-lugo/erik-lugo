@@ -1,10 +1,8 @@
 # Erik Lugo
 
-## Sobre Mí
+I Ingeniero de datos en OCCMundial.
 
-Ingeniero de datos.
-
-### Mis actividades
+## Mis actividades
 
 * Recolección de datos
 * Desarrollo de ETLs
