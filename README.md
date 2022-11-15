@@ -1,6 +1,6 @@
 # Erik Lugo
 
-Ingeniero de datos en OCCMundial.
+Ingeniero de datos.
 
 ## Mis actividades
 
